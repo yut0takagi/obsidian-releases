@@ -19241,5 +19241,12 @@
     "author": "Yongmini",
     "description": "A dynamic control center for your vault. Unify hubs, notes, tasks, periodic notes, and web resources with intuitive buttons. Replace new tab for instant access.",
     "repo": "especialkim/obsidian-synaptic-view"
+  },
+  {
+    "id": "share-hosted",
+    "name": "Share Hosted",
+    "author": "Yuto Takagi",
+    "description": "Share Obsidian notes with org-domain, allowlist, or public audience modes. Sign in with email — no Cloudflare setup required.",
+    "repo": "yut0takagi/obsidian-share-hosted"
   }
 ]
